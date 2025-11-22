@@ -1,0 +1,10 @@
+title: LangGraph Tutorial
+author: Luo Chang
+repository:
+  url: https://github.com/luochang212/langgraph-tutorial
+  path_to_book: .
+sphinx:
+  config:
+    html_baseurl: https://luochang212.github.io/langgraph-tutorial/
+execute:
+  execute_notebooks: "off"

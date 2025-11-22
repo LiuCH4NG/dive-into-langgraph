@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 46b30020-b078-4f68-81fc-430fbf897d0f
+  title: 首页
+  description: LangGraph v1.0 教程
+  keywords: [ "LangGraph", "Langchain" ]
+  authors: []
+  github: https://github.com/luochang212/langgraph-tutorial
+site:
+  template: book-theme
+  options:
+    logo_text: LangGraph v1.0 教程
+    # logo: ./static/my-logo.svg  # 可选，添加自定义logo
+    # favicon: ./static/favicon.ico  # 可选，配置浏览器图标
+toc: _toc.yml
